@@ -1,0 +1,15 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "http://127.0.0.1:8000/api/server/incoming_data",
+      "body": {
+        "key": "value",
+        "another_key": "another_value"
+      },
+      "headers": {
+        "Content-Type": "application/json",
+        "CL-X-TOKEN": "7063512c-f082-4bbc-9d97-209de4f24995"
+      }
+    }
+  }
+  

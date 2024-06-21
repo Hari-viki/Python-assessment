@@ -1,0 +1,9 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "http://127.0.0.1:8000/api/destinations/2",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+}    

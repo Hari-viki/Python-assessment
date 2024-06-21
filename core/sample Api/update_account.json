@@ -1,0 +1,15 @@
+{
+    "request": {
+      "method": "PUT",
+      "url": "http://127.0.0.1:8000/api/accounts/1/",
+      "body": {
+        "email": "updated_test@example.com",
+        "name": "Updated Test Account",
+        "website": "https://updated-example.com"
+      },
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
+  

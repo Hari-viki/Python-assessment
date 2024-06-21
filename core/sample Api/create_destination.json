@@ -1,0 +1,22 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "http://127.0.0.1:8000/api/destinations/",
+      "body": {
+        "account": 1,
+        "url": "http://example.com/destination",
+        "http_method": "POST",
+        "headers": {
+          "Content-Type": "application/json",
+          "APP_ID": "1234APPID1234",
+          "APP_SECRET": "enwdj3bshwer43bjhjs9ereuinkjcnsiurew8s",
+          "ACTION": "user.update",
+          "Accept": "*"
+        }
+      },
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
+  
