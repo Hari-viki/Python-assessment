@@ -6,7 +6,7 @@ I'm using the Django REST framework views to access the endpoint, and I'm using 
 
 
 # Files in core/API sample
-create_account.json:  creating a new account.
+create_account.json:  creating a new account.\n
 create_destination.json:  creating a new destination for an account.
 get_account.json: retrieving account details.
 get_destinations.json: retrieving all destinations for an account.
